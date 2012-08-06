@@ -101,3 +101,9 @@ p.tagline {
 	margin: 0 0 0 0;
 	font-weight: bold;
 }
+
+#mc_embed_signup{
+	background:#fff; 
+	clear:left; 
+	font:14px helvetica, arial, sans-serif; 
+}
